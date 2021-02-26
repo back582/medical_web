@@ -66,3 +66,15 @@ package.json 의 <br>
   <br> 을 추가해라
 <br>
 참고로 yarn start 하면 그냥 서버 키는거고 yarn start:dev 하면 개발 모드로 서버 키는거다 뭐, 막 구분할 필요없이 작업해도 되긴한데, 그래도.
+
+
+
+# STS 3.9.4
+
+https://www.npackd.org/p/org.springsource.STS64/3.9.4
+
+해당주소에서 받으시면 됩니다. (2021년 02년 26일 기준)
+
+Spring이 매분기마다 새로운 버전을 내놓고 있는데
+
+4버전을 권장하면서 3.10 이하의 버전은 받기 어렵게 해놨습니다.

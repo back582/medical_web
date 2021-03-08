@@ -71,3 +71,18 @@ yarn 실행하려는데 <br>
 
  마븐 업데이트가 제대로 안된거다 .m의 repository 폴더를 지우고 다시 마븐을 
 출처: https://papababo.tistory.com/entry/The-project-was-not-built-since-its-build-path-is-incomplete-Cannot-find-the-class-file-for-오류발생시-해결방법 참고
+
+
+<br><br>
+
+9. ### [WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+마븐 인스톨했는데 이런 문구가 나온다면 pom.xml의 <properties>설정 사이에 다음과 같은 설정값을 추가한다. <br><br>
+
+ <!-- Build Encoding UTF-8 Setting -->
+ <properties>
+  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+ </properties>
+ 
+ 

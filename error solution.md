@@ -67,4 +67,7 @@ yarn 실행하려는데 <br>
 
  <br> <br>
  
- 8. ### 
+ 8. ### The project was not built since its build path is incomplete. Cannot find the class file for ... 오류발생시 해결방법
+
+ 마븐 업데이트가 제대로 안된거다 .m의 repository 폴더를 지우고 다시 마븐을 
+출처: https://papababo.tistory.com/entry/The-project-was-not-built-since-its-build-path-is-incomplete-Cannot-find-the-class-file-for-오류발생시-해결방법 참고

@@ -80,9 +80,9 @@ yarn 실행하려는데 <br>
 마븐 인스톨했는데 이런 문구가 나온다면 pom.xml의 <properties 설정 사이에 다음과 같은 설정값을 추가한다. <br><br>
 
  <!-- Build Encoding UTF-8 Setting -->
- <properties
-  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding
-  <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding
- </properties
+ <properties <br>
+  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding  <br>
+  <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding  <br>
+ </properties <br>
  
  

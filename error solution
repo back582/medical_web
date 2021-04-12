@@ -84,6 +84,8 @@ yarn 실행하려는데
   <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
  </properties>
  
+
+
  
 10. ### 스프링부트로 프로젝트를 생성했는데 pom.xml에서 unknown에러가 난다면 마븐태그가 안되어 자동으로 업데이트가 안되고 있단 뜻일 거다.
 

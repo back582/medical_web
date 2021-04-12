@@ -85,3 +85,11 @@ yarn 실행하려는데
  </properties>
  
  
+10. ### 스프링부트로 프로젝트를 생성했는데 pom.xml에서 unknown에러가 난다면 마븐태그가 안되어 자동으로 업데이트가 안되고 있단 뜻일 거다.
+
+<properties>
+    <!-- ... -->
+    <maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
+</properties>
+
+이렇게 설정태그안에 추가해서 마븐으로 프로젝트를 업데이트 해주자. 만약 그래도 안된다면 스프링부트버전을 다운 그레이드 하거나 해야한다. 스프링의 대부분의 문제는 버전문제임을 잊지말자

@@ -78,3 +78,14 @@ https://www.npackd.org/p/org.springsource.STS64/3.9.4
 Spring이 매분기마다 새로운 버전을 내놓고 있는데
 
 4버전을 권장하면서 3.10 이하의 버전은 받기 어렵게 해놨습니다.
+
+
+
+
+# java
+
+https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
+
+해당 주소에서 받으시면 됩니다. (2021년 04월 14일 기준)
+
+오라클로 인수됨에 따라 가입하고 인증하는 번거로운 절차가 생겼지만 받고 사용하는데 문제는 없습니다.
